@@ -46,10 +46,6 @@ const links = [
   {
     title: "Tasks",
     path: "/",
-  },
-  {
-    title: "About",
-    path: "/about",
-  },
+  }
 ];
 </script>
